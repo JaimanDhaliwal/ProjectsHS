@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=ConnectFour
+comment0.text=\r\n\ This\ code\ is\ for\ a\ game\ of\ connect\ four.\r\n\ The\ game\ offers\ sound,\ score,\ resets,\ rules,\ muting/playing\ \r\n\ of\ sound,\ and\ ofcourse\ the\ game\ of\ connect\ four.\r\n\ \r\n\ The\ code\ is\ similar\ to\ the\ tic\ tac\ toe\ code\ that\ was\ \=posted\ on\ the\ site.\r\n\ The\ tic\ tac\ toe\ code\ was\ used\ for\ how\ I\ would\ set\ up\ my\ game,\r\n\ how\ the\ checking\ of\ wins\ would\ work,\ how\ switching\ turns\ would\ work\r\n\ and\ probably\ a\ lot\ more.\r\n\r\nFor\ extra\ features\ such\ as\ sounds,\ I\ used\ the\ internet\ and\ under\ \r\nsome\ code\ I\ pasted\ the\ link\ of\ the\ source.\r\n\r\n\r\n\ Jaiman\ Dhaliwal\r\n\ 2020/01/13\r\n\ \r\n\ \r\n\ \ \r\n\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=b
+comment10.target=void\ reset(int)
+comment11.params=audioFileName
+comment11.target=void\ audio(java.lang.String)
+comment12.params=WinName
+comment12.target=void\ win(java.lang.String)
+comment13.params=path
+comment13.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+comment2.params=
+comment2.target=ConnectFour()
+comment3.params=
+comment3.target=void\ Menu()
+comment4.params=
+comment4.target=void\ Settings()
+comment5.params=
+comment5.target=void\ ChangeColour()
+comment6.params=
+comment6.target=void\ gameScreen()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=a
+comment8.target=void\ win(int)
+comment9.params=a
+comment9.target=void\ Clear(int)
+numComments=14
